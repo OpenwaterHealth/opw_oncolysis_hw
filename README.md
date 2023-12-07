@@ -1,16 +1,29 @@
 # opw_oncolysis_hw
-Openwater's Open-Source Oncolysis Hardware
+## Openwater's Open-Source Oncolysis Hardware
 
-Table of Contents:
-* [System Overview](Overview)
-  * in vitro system
-  * in vivo system
-* [Bill of Materials](BOM)
-  * in vitro system
-  * in vivo system
+Openwater created experimental setups to treat 3D cultures of cells and in vivo mouse flanks with focused ultrasound transducers. These setups facilitated the preclinical oncolysis studies that were performed to ascertain if focused ultrasound at relatively low intensities can have a lysing effect on glioblastoma (GBM) cells while also not harming healthy cells.
+
+Many of the components of the in vivo and in vitro systems were the same, although the precise fixturing used during the experiments was specific to each study.
+
+** Files contained in the Openwater Oncolysis Hardware Repository:
+* [Gen1 in vitro User Manual](Oncolysis in vitro only User Manual (V0.1))
+  * This manual describes the original system used to perform the in vitro cell culture treatment of GBM constructs.
+  * This is an obsolete manual as the system was upgraded due to issues with contamination and improve the ease of use
+* [Gen2 Oncolysis User Manual](Oncolysis User Manual)
+  * This user manual is for the in vitro system in vivo system
 * [Operation Instructions](Operation)
   * in vitro system
   * in vivo system
 * [System Calibration](Calibration)
   * in vitro system
   * in vivo system
+
+## Contributing
+
+We welcome contributions from the community. If you have ideas for improvements or find any issues, please open an issue or submit a pull request.
+
+Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the AGPLv3 License - see the [License](LICENSE) file for details.
