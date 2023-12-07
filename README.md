@@ -5,7 +5,7 @@ Openwater created experimental setups to treat 3D cultures of cells and in vivo 
 
 Many of the components of the in vivo and in vitro systems were the same, although the precise fixturing used during the experiments was specific to each study.
 
-## Files contained in the Openwater Oncolysis Hardware Repository:
+## Files contained in the Openwater Oncolysis Hardware Repository
 * [Gen1 in vitro User Manual](Oncolysis in vitro only User Manual (V0.1))
   * This manual describes the original system used to perform the in vitro cell culture treatment of GBM constructs.
   * This is an obsolete manual as the system was upgraded due to issues with contamination and improve the ease of use
