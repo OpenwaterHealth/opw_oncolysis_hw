@@ -10,10 +10,12 @@ Many of the components of the in vivo and in vitro systems were the same, althou
   * This manual describes the original system used to perform the in vitro cell culture treatment of GBM constructs.
   * This is an obsolete manual as the system was upgraded due to issues with contamination and improve the ease of use
 * [Gen2 Oncolysis User Manual](Oncolysis User Manual)
-  * This user manual is for the in vitro system in vivo system
-* [Operation Instructions](Operation)
-  * in vitro system
-  * in vivo system
+  * This user manual is for the in vitro and in vivo systems. It includes:
+    * List of components needed for each assembly with links to off the shelf components
+    * Instructions for how to assemble all of the components for both setups
+    * References to part numbers of 3D printed parts that can also be found in this repository
+* [in vitro setup components](ONC tank parts  in vitro)
+  * list of off the shelf components with 
 * [System Calibration](Calibration)
   * in vitro system
   * in vivo system
