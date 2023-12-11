@@ -16,9 +16,6 @@ Many of the components of the in vivo and in vitro systems were the same, althou
     * References to part numbers of 3D printed parts that can also be found in this repository
 * [in vitro setup components](in%20vitro%20setup/ONC%20tank%20parts%20in%20vitro.pdf)
   * list of off the shelf components with 
-* [System Calibration](Calibration)
-  * in vitro system
-  * in vivo system
 
 ## Contributing
 
