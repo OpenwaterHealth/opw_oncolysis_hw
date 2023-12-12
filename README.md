@@ -8,7 +8,7 @@ Many of the components of the in vivo and in vitro systems were the same, althou
 ## Files contained in the Openwater Oncolysis Hardware Repository
 * [v0.1 in vitro User Manual](in%20vitro%20setup/v0.1/Oncolysis%20in%20vitro%20only%20User%20Manual%20(V0.1).pdf)
   * This manual describes the original system used to perform the in vitro cell culture treatment of GBM constructs.
-  * This is an obsolete manual as the system was upgraded due to issues with contamination and improve the ease of use
+  * This is an obsolete manual as the system was upgraded due to issues with contamination and to improve its ease of use
 * [v1.2 Oncolysis User Manual](Oncolysis%20User%20Manual%20(V1.2).pdf)
   * This user manual is for the in vitro and in vivo systems. It includes:
     * List of components needed for each assembly with links to off the shelf components
