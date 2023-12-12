@@ -13,10 +13,17 @@ Many of the components of the in vivo and in vitro systems were the same, althou
   * This user manual is for the in vitro and in vivo systems. It includes:
     * List of components needed for each assembly with links to off the shelf components
     * Instructions for how to assemble all of the components for both setups
-    * References to part numbers of 3D printed parts that can also be found in this repository
+    * References to part numbers of 3D printed parts that can also be found in this manual
 * [in vitro setup components](in%20vitro%20setup/ONC%20tank%20parts%20in%20vitro.pdf)
-  * list of off the shelf components with
+  * Lists of off-the-shelf (OTS) components with descriptions, part numbers, and links to purchase them
+    * [Zip file containing drawings of OTS components](in%20vitro%20setup/OTS%20ONC%20parts.zip)
+  * Lists custom OW part numbers and descriptions
+    * [Zip file containing drawings needed to 3D print in vitro setup tank covers](in%20vitro%20setup/ONC%20tank%20covers.zip) 
+    * [Zip file containing drawings needed to 3D print transducer coupling cones for in vitro setup](in%20vitro%20setup/ONC%20coupling%20cones.zip)
 * [in vivo setup components](in%20vivo%20setup)
+* [Portable validation of acoustic output parts](hydrophone folder)
+  * This folder contains mechanical drawings needed to 3D print the hydrophone holders and test the acoustic output of transducers on site
+    * [Zip file containing hydrophone holder assembly](PORTABLE IN VITRO HYDROPHONE HOLDER ASSEMBLY.zip)
 
 ## Contributing
 
