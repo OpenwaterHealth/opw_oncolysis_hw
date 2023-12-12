@@ -1,7 +1,14 @@
-# opw_oncolysis_hw
-## Openwater's Open-Source Oncolysis Hardware
+# Preclinical Oncolysis Prototype
+## Overview
 
-Openwater created experimental setups to treat 3D cultures of cells and in vivo mouse flanks with focused ultrasound transducers. These setups facilitated the preclinical oncolysis studies to ascertain if focused ultrasound at relatively low intensities can have a lysing effect on glioblastoma (GBM) cells while not harming healthy cells.
+The Openwater Preclinical Oncolysis Prototype is designed to help researchers investigate the effect of different ultrasound parameters on a variety of in vitro and preclinical in vivo targets. Certain acoustic parameters may be well suited for damaging cancer cells while sparing surrounding healthy tissue, and this system is designed to systematically explore such effects in a laboratory setting.
+
+Multiple focused ultrasound transducers are connected to a programmable signal generator through an amplifier and a switch to select which transducer is active. Samples are placed beneath the transducer(s), using 3D-printed coupling cones filled with water to make a path for the ultrasound and set the depth of the focal spot within the target. This system is compatible with in vitro targets held in standard 6-well plates as well as with mouse flanks, through the assistance of a stereotactic frame.
+![image](https://github.com/OpenwaterHealth/opw_oncolysis_hw/assets/6217005/76b72cb4-2e9d-4a80-8a56-801b848d6971)
+
+Controller software allows for configuration of treatment parameters through a simple GUI application. With its default settings, the system can be configured to output focused ultrasound from the parameters shown in the table to the right. This allows for investigation of treatment parameters both within and well above the safety levels used for diagnostic ultrasound imaging.
+![image](https://github.com/OpenwaterHealth/opw_oncolysis_hw/assets/6217005/e849b485-e208-44a8-8d42-2a0543ee723a)
+
 
 Many of the components of the in vivo and in vitro systems were the same, although the precise fixturing used during the experiments was specific to each study.
 
@@ -22,3 +29,6 @@ Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 This project is licensed under the AGPLv3 License - see the [License](LICENSE) file for details.
+
+## Disclaimer
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. This system has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with use
