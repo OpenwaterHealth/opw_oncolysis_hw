@@ -1,7 +1,7 @@
 # opw_oncolysis_hw
 ## Openwater's Open-Source Oncolysis Hardware
 
-Openwater created experimental setups to treat 3D cultures of cells and in vivo mouse flanks with focused ultrasound transducers. These setups facilitated the preclinical oncolysis studies that were performed to ascertain if focused ultrasound at relatively low intensities can have a lysing effect on glioblastoma (GBM) cells while also not harming healthy cells.
+Openwater created experimental setups to treat 3D cultures of cells and in vivo mouse flanks with focused ultrasound transducers. These setups facilitated the preclinical oncolysis studies to ascertain if focused ultrasound at relatively low intensities can have a lysing effect on glioblastoma (GBM) cells while not harming healthy cells.
 
 Many of the components of the in vivo and in vitro systems were the same, although the precise fixturing used during the experiments was specific to each study.
 
@@ -11,9 +11,9 @@ Many of the components of the in vivo and in vitro systems were the same, althou
   * This is an obsolete manual as the system was upgraded due to issues with contamination and to improve its ease of use
 * [v1.2 Oncolysis User Manual](Oncolysis%20User%20Manual%20(V1.2).pdf)
   * This user manual is for the in vitro and in vivo systems. It includes:
-    * List of components needed for each assembly with links to off the shelf components
+    * List of components needed for each assembly with links to off-the-shelf components
     * Instructions for how to assemble all of the components for both setups
-    * References to part numbers of 3D printed parts that can also be found in this manual
+    * References to part numbers of 3D-printed parts 
 * [in vitro setup components](in%20vitro%20setup/ONC%20tank%20parts%20in%20vitro.pdf)
   * Lists of off-the-shelf (OTS) components with descriptions, part numbers, and links to purchase them
     * [Zip file containing drawings of OTS components](in%20vitro%20setup/OTS%20ONC%20parts.zip)
@@ -22,7 +22,7 @@ Many of the components of the in vivo and in vitro systems were the same, althou
     * [Zip file containing drawings needed to 3D print transducer coupling cones for in vitro setup](in%20vitro%20setup/ONC%20coupling%20cones.zip)
 * [in vivo setup components](in%20vivo%20setup)
 * [Portable validation of acoustic output parts](hydrophone folder)
-  * This folder contains mechanical drawings needed to 3D print the hydrophone holders and test the acoustic output of transducers on site
+  * This folder contains mechanical drawings needed to 3D print the hydrophone holders and test the acoustic output of transducers on-site
     * [Zip file containing hydrophone holder assembly](PORTABLE IN VITRO HYDROPHONE HOLDER ASSEMBLY.zip)
 
 ## Contributing
