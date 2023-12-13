@@ -1,18 +1,10 @@
 # Preclinical Oncolysis Prototype
-## Overview
+This repository contains the hardware designs as well as assembly and operation instructions for Openwater's preclinical oncolysis platform. The Openwater Preclinical Oncolysis Prototype is designed to help researchers investigate the effect of different ultrasound parameters on a variety of in vitro and preclinical in vivo targets. Certain acoustic parameters may be well suited for damaging cancer cells while sparing surrounding healthy tissue, and this system is designed to systematically explore such effects in a laboratory setting. 
 
-The Openwater Preclinical Oncolysis Prototype is designed to help researchers investigate the effect of different ultrasound parameters on a variety of in vitro and preclinical in vivo targets. Certain acoustic parameters may be well suited for damaging cancer cells while sparing surrounding healthy tissue, and this system is designed to systematically explore such effects in a laboratory setting.
+For additional details on the preclinical oncolysis system and its applications, refer to the [wiki](http://162.246.254.83/index.php/Oncolysis).
 
-Multiple focused ultrasound transducers are connected to a programmable signal generator through an amplifier and a switch to select which transducer is active. Samples are placed beneath the transducer(s), using 3D-printed coupling cones filled with water to make a path for the ultrasound and set the depth of the focal spot within the target. This system is compatible with in vitro targets held in standard 6-well plates as well as with mouse flanks, through the assistance of a stereotactic frame.
-
-![image](https://github.com/OpenwaterHealth/opw_oncolysis_hw/assets/6217005/76b72cb4-2e9d-4a80-8a56-801b848d6971)
-
-Controller software allows for configuration of treatment parameters through a simple GUI application. With its default settings, the system can be configured to output focused ultrasound from the parameters shown in the table to the right. This allows for investigation of treatment parameters both within and well above the safety levels used for diagnostic ultrasound imaging.
-
-![image](https://github.com/OpenwaterHealth/opw_oncolysis_hw/assets/6217005/e849b485-e208-44a8-8d42-2a0543ee723a)
-
-
-Many of the components of the in vivo and in vitro systems were the same, although the precise fixturing used during the experiments was specific to each study.
+## Getting Started
+In addition to gathering the hardware listed here and following assmebly instructions, the software control code for the system needs to be installed from this repository: [opw_oncolysis_sw](https://github.com/OpenwaterHealth/opw_oncolysis_sw)
 
 ## Files contained in the Openwater Oncolysis Hardware Repository
 * [v1.2 Oncolysis User Manual](Oncolysis%20User%20Manual%20(V1.2).pdf)
