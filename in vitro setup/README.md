@@ -6,3 +6,5 @@ This folder contains the following:
 - `ONC tank covers.zip`: drawings needed to 3D print in vitro setup tank covers
 - `Oncolysis parts for in vitro setup.pdf`: BOM for _in vitro_ setup
 - `OTS ONC parts.zip`: Lists of off-the-shelf (OTS) components with descriptions, part numbers, and links to purchase them
+- `PORTABLE IN VITRO HYDROPHONE HOLDER ASSEMBLY.zip` contains mechanical drawings needed to 3D print the hydrophone holders and test the acoustic output of transducers on-site.
+  * Calibration instructions are found in the User Manual.
