@@ -1,7 +1,7 @@
 # Preclinical Oncolysis Prototype
 This repository contains the hardware designs as well as assembly and operation instructions for Openwater's preclinical oncolysis platform. The Openwater Preclinical Oncolysis Prototype is designed to help researchers investigate the effect of different ultrasound parameters on a variety of in vitro and preclinical in vivo targets. Certain acoustic parameters may be well suited for damaging cancer cells while sparing surrounding healthy tissue, and this system is designed to systematically explore such effects in a laboratory setting. 
 
-For additional details on the preclinical oncolysis system and its applications, refer to the [wiki](http://162.246.254.83/index.php/Oncolysis).
+For additional details on the preclinical oncolysis system and its applications, refer to the [wiki](https://wiki.openwater.health/index.php/Openwater_Wiki#Oncolysis).
 
 ## Getting Started
 In addition to gathering the hardware listed here and following assmebly instructions, the software control code for the system needs to be installed from this repository: [opw_oncolysis_sw](https://github.com/OpenwaterHealth/opw_oncolysis_sw)
